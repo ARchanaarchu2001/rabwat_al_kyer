@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "FirmSerifAlt";
+  /* Use common built-in serif fonts (no external files) */
+  src: local("Georgia"), local("Times New Roman"), local("Times");
+  font-weight: 300 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FirmSerifAlt";
+  /* Italic versions of common serif fonts */
+  src: local("Georgia Italic"), local("Times New Roman Italic"), local("Times Italic");
+  font-weight: 300 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Arabic: use common system fonts that support Arabic */
+@font-face {
+  font-family: "FirmSerifArabicAlt";
+  src:
+    local("Arial"),
+    local("Tahoma"),
+    local("Times New Roman"),
+    local("Noto Naskh Arabic");
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Auto switch by document direction */
+@layer base {
+  html {
+    font-family: "FirmSerifAlt", Georgia, "Times New Roman", Times, serif;
+  }
+
+  html[dir="rtl"] {
+    font-family: "FirmSerifArabicAlt", "Arial", "Tahoma", "Times New Roman", serif;
+  }
+}
+
+
+
+@keyframes heroScrollLine {
+  0% {
+    transform: translateY(-100%);
+  }
+  50% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.animate-\[heroScrollLine_1\.35s_ease-in-out_infinite\] {
+  animation: heroScrollLine 1.35s ease-in-out infinite;
+}
+
+
+/* ---- Testimonials marquee animation ---- */
+
+.testimonials-marquee-mask {
+  overflow: hidden;
+  position: relative;
+  padding-block: 0.25rem;
+  /* soft fade on the sides using mask */
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 10%,
+    black 90%,
+    transparent
+  );
+}
+
+.testimonials-marquee-track {
+  display: inline-flex;
+  gap: 1rem;
+  width: max-content;
+  animation: testimonials-marquee-ltr 35s linear infinite;
+}
+
+/* Reverse direction automatically for RTL */
+[dir="rtl"] .testimonials-marquee-track {
+  animation-name: testimonials-marquee-rtl;
+}
+
+.testimonials-marquee-track:hover {
+  animation-play-state: paused;
+}
+
+@keyframes testimonials-marquee-ltr {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes testimonials-marquee-rtl {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(50%);
+  }
+}

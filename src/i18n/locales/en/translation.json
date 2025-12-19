@@ -1,0 +1,799 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "slides": [
+      {
+        "id": "expert",
+        "title": "Technical & Maintenance Services in UAE",
+        "description": "Your trusted home appliance repair company in UAE, offering kitchen appliance installation UAE & AC maintenance company in UAE services.",
+        "cta": "BOOK ON WHATSAPP",
+          "ctaLink": "https://wa.me/971566014047?text=Hi%2C%20I%27d%20like%20to%20book%20a%20service",
+        "cta2": "GET A QUOTE",
+        "cta2Link": "/contact",
+        
+        "image": "/assets/hero-1.jpg"
+      },
+      {
+        "id": "quality",
+        "title": "Technical & Maintenance Services in UAE",
+        "description": "Your trusted home appliance repair company in UAE, offering kitchen appliance installation UAE & AC maintenance company in UAE services.",
+        "cta": "BOOK ON WHATSAPP",
+         "ctaLink": "https://wa.me/971566014047?text=Hi%2C%20I%27d%20like%20to%20book%20a%20service",
+        "cta2": "GET A QUOTE",
+        "cta2Link": "/contact",
+        "badge": "Client-First Approach",
+        "image": "/assets/hero-2.jpg"
+      },
+      {
+        "id": "support",
+        "title": "Technical & Maintenance Services in UAE",
+        "description": "Your trusted home appliance repair company in UAE, offering kitchen appliance installation UAE & AC maintenance company in UAE services.",
+        "cta": "BOOK ON WHATSAPP",
+         "ctaLink": "https://wa.me/971566014047?text=Hi%2C%20I%27d%20like%20to%20book%20a%20service",
+        "cta2": "GET A QUOTE",
+        "cta2Link": "/contact",
+        "badge": "Trusted Legal Advisors",
+        "image": "/assets/hero-3.jpg"
+      }
+    ]
+  },
+
+  "missionVision": {
+  "label": "Who We Are",
+  "heading": "Our Mission & Vision",
+  "intro": "We exist to keep homes and businesses in the UAE running safely, smoothly and comfortably through reliable technical and maintenance services.",
+  "mission": {
+    "title": "Our Mission",
+    "statement": "To provide dependable, expert, and affordable technical & maintenance services in UAE and across the UAE, ensuring comfort, efficiency, and safety for every home and business we serve."
+    
+  },
+  "vision": {
+    "title": "Our Vision",
+    "statement": "To become the UAE’s most trusted and innovative maintenance partner, known for excellence in kitchen appliance installation UAE, appliance repair, and AC maintenance company in UAE services—setting new standards in quality and customer satisfaction."
+   
+  }
+}
+
+,
+
+  "service": {
+    "heading": "Our Services",
+    "chooser": {
+      "subtitle": "Rabwat Al Khair is a trusted provider of technical & maintenance services in the UAE, delivering professional solutions for residential, commercial, and industrial clients."
+    },
+    "viewServices": "View All Services",
+    "learnMore": "Learn More",
+
+    "cards": {
+      "electrical": {
+        "title": "Electrical Appliance Maintenance",
+        "description": "We offer complete electrical appliance maintenance services as a leading home appliance repair company in the UAE. Our technicians repair and service washing machines, refrigerators, ovens, dishwashers, and other essential home appliances using advanced diagnostic tools and genuine spare parts to ensure long-lasting performance and safety."
+      },
+      "kitchen": {
+        "title": "Kitchen Equipment Installation Services",
+        "description": "Rabwat Al Khair specializes in professional kitchen appliance installation in Abu Dhabi for residential and commercial kitchens. From installing modern ovens and cooktops to setting up dishwashers, refrigerators, and commercial kitchen equipment, our certified team ensures proper installation, safety compliance, and optimal equipment performance."
+      },
+      "ac": {
+        "title": "AC & Heating System Maintenance",
+        "description": "As a reliable AC maintenance company in UAE, we provide comprehensive AC and heating system services across villas, apartments, offices, and commercial spaces. Our services include AC servicing, repair, gas refilling, duct cleaning, filter replacement, and heating system maintenance to keep your environment cool and comfortable all year round."
+      }
+    }
+  },
+
+  "whyChoose": {
+    "heading": "Why Choose Rabwat Al Khair",
+    "cards": {
+      "expert": {
+        "title": "Certified Expert Technicians",
+        "description": "Our licensed technicians are experienced across all maintenance services"
+      },
+      "fast": {
+        "title": "Fast & Reliable Service",
+        "description": "We provide same-day or next-day service for most maintenance requests."
+      },
+      "pricing": {
+        "title": "Transparent Pricing",
+        "description": "No hidden charges — just honest and affordable rates."
+      },
+      "priority": {
+        "title": "Customer-First Approach",
+        "description": "Your satisfaction is our priority. We ensure quality service with clear communication."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "What areas do you cover for Technical & Maintenance Services in UAE?",
+        "a": "We provide complete technical & maintenance services in the UAE, including Abu Dhabi, Dubai, Sharjah, Ajman, Ras Al Khaimah, Fujairah, and Umm Al Quwain. Whether you’re in a villa, apartment, office, or commercial space — our team covers you."
+      },
+      {
+        "q": "Are you a certified Home Appliance Repair Company in UAE?",
+        "a": "Yes. Rabwat Al Khair is a fully registered and trusted home appliance repair company in UAE, staffed with licensed and trained technicians. We follow all UAE safety regulations and manufacturer guidelines while performing repairs and maintenance."
+      },
+      {
+        "q": " Do you provide Kitchen Appliance Installation in UAE for commercial kitchens?",
+        "a": "Absolutely. We specialize in kitchen appliance installation in UAE for both residential and commercial kitchens, including: Restaurants,Hotels,Cafés,Cloud kitchens,Catering facilities.We install ovens, grills, freezers, dishwashers, industrial cooking ranges, and more."
+      },
+      {
+        "q": "Why should I choose you as my AC Maintenance Company in UAE?",
+        "a": "As a trusted AC maintenance company in UAE, we provide:✅ Full AC servicing,✅ Filter and coil cleaning,✅ Gas refilling,✅ Thermostat repair,✅ Duct inspection & air quality check,✅ Heating + split unit maintenance. We ensure your AC runs efficiently, reduces energy bills, and performs optimally during extreme summer heat."
+      },
+      {
+        "q": "How fast do you respond to maintenance requests?",
+        "a": "For most technical & maintenance services in UAE, our response time is within 60–120 minutes, depending on your location. Emergency services are handled with top priority."
+      },
+      {
+        "q": "Do you provide annual maintenance contracts (AMC)?",
+        "a": "Yes, we offer flexible AMC packages for:✅ Homes ,✅ Offices, ✅ Restaurants, ✅ Buildings & Villas. Our AMC covers regular inspections, preventive maintenance, and discounted repairs throughout the year."
+      },
+      {
+        "q": "What brands do you support?",
+        "a": "As a professional home appliance repair company in UAE, we service all major brands, including: Samsung, LG, Bosch, Siemens, Panasonic, Whirlpool, Daikin, Carrier, Gree, Haier, Electrolux, and more"
+      },
+      {
+        "q": "Are your technical & maintenance services in UAE available on weekends & holidays?",
+        "a": "Yes. Rabwat Al Khair operates 7 days a week, including public holidays, ensuring uninterrupted services for all your maintenance needs."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Experience Ultimate Comfort?",
+    "lead": "Don’t let AC problems disrupt your comfort or productivity. Whether you need emergency AC repair, routine air conditioning maintenance, or a complete system installation, we deliver professional solutions you can trust.",
+    "body": [
+      "Our comprehensive approach goes beyond simple fixes – we’re your partner in maintaining a comfortable, healthy indoor environment.",
+      "From AC maintenance to complete home maintenance solutions, we’re here when you need us most."
+    ],
+    "contactHeading": "Contact Us Today",
+    "contactLines": [
+      "24/7 emergency AC repair service",
+      "Comprehensive air conditioning service plans",
+      "Professional installation services and replacement",
+      "Complete home maintenance solutions"
+    ],
+    "whatsappLabel": "WhatsApp",
+    "callLabel": "Call Us"
+  },
+  "serviceHighlights": {
+    "items": [
+      {
+        "id": "support",
+        "label": "24/7 Customer Support"
+      },
+      {
+        "id": "satisfaction",
+        "label": "Fast Response Time"
+      },
+      {
+        "id": "excellent",
+        "label": "Certified Technicians"
+      },
+      {
+        "id": "payment",
+        "label": "Affordable Pricing"
+      }
+    ]
+  },
+
+  "workProcess": {
+    "heading": "Our Work Process",
+    "subtitle": "We promise, working with us will be a painless process – here's what you can expect:",
+    "steps": [
+      {
+        "id": "contact",
+        "title": "Contact us",
+        "description": "Call or message us via WhatsApp with your maintenance request."
+      },
+      {
+        "id": "visit",
+        "title": "We Show Up",
+        "description": "Our technicians arrive on time with tools and spare parts."
+      },
+      {
+        "id": "complete",
+        "title": "Job Done",
+        "description": "We fix the issue quickly with guaranteed workmanship."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Client Testimonials",
+    "subtitle": "What Our Customers Say About Us",
+    "items": [
+      {
+        "name": "Ahmed Raza – Business Owner, Abu Dhabi",
+        "handle": "@username",
+        "text": "I contacted Rabwat Al Khair for urgent AC repair during peak summer and I am truly impressed. Their team is the best AC maintenance company in UAE. They came on time, fixed the issue fast, and the cooling performance improved immediately. Highly recommended for professional technical & maintenance services in UAE."
+      },
+      {
+        "name": "Fatima Khan – Villa Resident, Palm Jumeirah",
+        "handle": "@username",
+        "text": "My washing machine and refrigerator stopped working suddenly. Rabwat Al Khair arrived the same day and fixed everything smoothly. They are a very reliable home appliance repair company in UAE with professional technicians and reasonable pricing. Great service experience!"
+      },
+      {
+        "name": "Mohammed Al-Sayadi – Restaurant Manager, Sharjah",
+        "handle": "@username",
+        "text": "We used Rabwat Al Khair for complete kitchen appliance installation UAE for our restaurant. They installed ovens, freezers, and dishwashers perfectly. Very professional team and excellent coordination. I highly recommend them for commercial kitchen setup needs."
+      },
+      {
+        "name": "Sarah Williams – Office Admin, Business Bay",
+        "handle": "@username",
+        "text": "Our office AC system broke down during a busy working day. Rabwat Al Khair responded within 90 minutes and replaced the faulty parts. They are truly a reliable AC maintenance company in UAE and one of the best providers of technical & maintenance services in UAE."
+      },
+      {
+        "name": "Hassan Mirza – Homeowner, Al Ain",
+        "handle": "@username",
+        "text": "I booked Rabwat Al Khair for both appliance repair and AC service. They handled everything perfectly. Definitely the most professional home appliance repair company in UAE with affordable pricing and quick turnaround."
+      }
+    ]
+  },
+
+  
+  "aboutPage": {
+    "header": {
+      "title": "About Rabwat Al Khair Technical & Maintenance Services",
+      "subtitle": "We provide reliable technical and maintenance services across UAE, keeping your home and business running smoothly.",
+      "label": "About",
+      "alt": "Rabwat Al Khair maintenance team at work"
+    }
+  }
+
+,
+ 
+  "coreValues": {
+    "heading": "Our Core Values",
+    "items": [
+      {
+        "id": "quality",
+        "label": "Quality",
+        "description": "We commit to delivering high-standard workmanship in every service we provide."
+      },
+      {
+        "id": "relationships",
+        "label": "Relationships",
+        "description": "We build long-term trust with customers through transparency and reliability."
+      },
+      {
+        "id": "reliability",
+        "label": "Reliability",
+        "description": "We show up on time and deliver exactly what we promise."
+      },
+      {
+        "id": "ethics",
+        "label": "Ethics",
+        "description": "Integrity guides every decision we make—no hidden charges or shortcuts."
+      },
+      {
+        "id": "teamwork",
+        "label": "Teamwork",
+        "description": "Our team collaborates to ensure fast, smooth, and accurate service delivery."
+      },
+      {
+        "id": "empowerment",
+        "label": "Empowerment",
+        "description": "We equip our technicians with ongoing training and advanced tools."
+      },
+      {
+        "id": "commitment",
+        "label": "Commitment",
+        "description": "Your satisfaction is our priority, and we work until the job is done right."
+      }
+    ]
+  }
+
+,
+  "counters": {
+    "backgroundAlt": "Our team at work",
+    "items": [
+      {
+        "id": "clients",
+        "value": "3000+",
+        "label": "Happy Clients"
+      },
+      {
+        "id": "projects",
+        "value": "2000+",
+        "label": "Successful Projects"
+      },
+      {
+        "id": "awards",
+        "value": "100%",
+        "label": "Satisfaction Rate"
+      },
+      {
+        "id": "team",
+        "value": "24/7",
+        "label": "Customer Support"
+      }
+    ]
+  },
+ 
+  "aboutIntro": {
+    "title": "Your Trusted Partner for Technical & Maintenance Services in UAE",
+    "badges": {
+      "expert": "Certified & Experienced Technicians",
+      "quality": "High-Quality Repairs & Genuine Parts"
+    },
+    "body": "Rabwat Al Khair is a leading provider of technical & maintenance services in UAE, delivering reliable, affordable, and expert solutions for homes, offices, commercial kitchens, and businesses across the UAE. With years of hands-on experience and a team of certified professionals, we ensure your appliances, AC systems, and kitchen equipment operate at peak performance—all year round."
+  }
+
+,
+  "aboutTeam": {
+    "heading": "Meet Our Professional Team Members",
+    "members": [
+      {
+        "id": "ali",
+        "name": "Ali",
+        "role": "AC Repair Technician",
+        "image": "/assets/team/ali.jpg",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": "salman",
+        "name": "Salman",
+        "role": "Washing/Dryer Repair",
+        "image": "/assets/team/salman.jpg",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": "zamaan",
+        "name": "Zamaan",
+        "role": "Fridge/Freezer Repair",
+        "image": "/assets/team/zamaan.jpg",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": "abu_bakar",
+        "name": "Abu Bakar",
+        "role": "Coffee Machine / Iron Repair",
+        "image": "/assets/team/abu-bakar.jpg",
+        "social": {
+          "facebook": "#",
+          "twitter": "#",
+          "instagram": "#"
+        }
+      }
+    ]
+  },
+  "services": {
+    "electricalApplianceMaintenance": {
+      "hero": {
+        "badge": "24 x 7 Same Day Services",
+        "title": "Electrical Appliance Maintenance in UAE",
+        "subtitle": "Rabwat Al Khair is a trusted electrical maintenance company in UAE offering washing machine, dishwasher, and fridge repair, household appliance repair services.",
+        "ctaLabel": "Contact Us",
+        "backgroundImage": "/electrical-hero.jpg"
+      },
+      "highlights": [
+        {
+          "label": "Our Tools",
+          "title": "Advanced diagnostic and repair tools for accurate and efficient appliance servicing."
+        },
+        {
+          "label": "Our Goal",
+          "title": "Delivering high-quality electrical repairs with guaranteed customer satisfaction."
+        },
+        {
+          "label": "Our Technicians",
+          "title": "Skilled, certified electrical technicians with years of hands-on experience."
+        }
+      ],
+      "about": {
+        "eyebrow": "About This Service",
+        "heading": " Electrical Maintenance Company in UAE",
+        "image": "/electrical-about.jpg",
+        "imageAlt": "Electrical appliance maintenance",
+        "paragraphs": [
+          "Rabwat Al Khair is a leading electrical maintenance company in UAE, offering expert repair and servicing for all major household electrical appliances. ",
+          "From washing machine repair UAE to dishwasher repair UAE, fridge repair UAE, and complete home appliance maintenance, we ensure fast, reliable, and affordable solutions for homes, villas, offices, and commercial spaces across the UAE."
+          
+        ],
+        "stat": {
+          "value": "10+",
+          "label": "Years of Experience"
+        }
+      },
+      "quality": {
+        "backgroundImage": "/quality-bg.jpg",
+        "sideImage": "/quality-side.jpg",
+        "sideImageAlt": "Technicians working with precision tools",
+        "title": "Discover Our Range of Electrical Appliance Services",
+        "paragraphs": [
+          "We offer high-quality electrical appliance repair and maintenance services for all major brands and models."
+          
+        ],
+         "services": [
+        {
+          "title": "Washing Machine Repair ",
+          "description": "Our washing machine repair  UAE services cover leaks, drainage failures, drum issues, noise problems, power faults, and motor defects. We provide fast, reliable repairs for both top-load and front-load washing machines."
+        },
+        {
+          "title": "Dishwasher Repair ",
+          "description": "We offer expert dishwasher repair UAE services for issues like poor cleaning, water leakage, power problems, drainage failure, and heating element faults. Our technicians ensure your dishwasher runs efficiently with long-lasting performance."
+        },
+        {
+          "title": "Fridge Repair",
+          "description": "Our fridge repair UAE specialists service cooling issues, compressor faults, thermostat breakdowns, gas leakage, unusual noise, and frost buildup. We repair all types: single-door, double-door, side-by-side, and commercial refrigerators."
+        },
+        {
+          "title": " Home Appliance Repair & Maintenance",
+          "description": "We provide complete home appliance repair services for ovens, microwaves, dryers, freezers, and more. We use original spare parts and deliver safe, professional repair solutions to extend the lifespan of your appliances."
+        }
+      ]
+      },
+       "faq": {
+        "eyebrow": "Need Clarity?",
+        "heading": "Electrical Maintenance FAQs",
+        "intro": "Here are answers to the most common questions customers ask us about AC repair, servicing, and installation in  UAE.",
+        "items": [
+          {
+            "question": "What services does your electrical maintenance company in UAE provide?",
+            "answer": "Our electrical maintenance company in UAE offers complete home appliance repair including washing machine repair UAE, dishwasher repair UAE, fridge repair UAE, oven repair, dryer repair, freezer maintenance, and more."
+          },
+          {
+            "question": "Do you offer same-day washing machine repair UAE?",
+            "answer": "Yes. We provide fast, same-day washing machine repair in UAE for leaking machines, drainage issues, drum problems, and power faults. Our technicians repair all major brands."
+          },
+          {
+            "question": "What issues can you fix with dishwasher repair in UAE?",
+            "answer": "Our dishwasher repair UAE service covers heating issues, water leakage, not draining, poor cleaning, electrical faults, and complete system breakdowns."
+          },
+          {
+            "question": "Do you handle fridge repair UAE for all refrigerator types?",
+            "answer": "Absolutely. Our fridge repair UAE experts fix cooling problems, compressor failure, thermostat malfunction, gas leakage, strange noises, and freezer issues—for all home and commercial refrigerator models."
+          },
+          {
+            "question": "Do you offer home appliance repair for villas and apartments?",
+            "answer": "Yes. We provide full home appliance repair for residential and commercial properties, covering washing machines, fridges, dishwashers, ovens, microwaves, and more."
+          },
+          {
+            "question": "Are your technicians certified for electrical maintenance?",
+            "answer": "Yes, our technicians are trained and certified, making Rabwat Al Khair a trusted electrical maintenance company in UAE with years of professional experience."
+          },
+           {
+            "question": "Do you provide genuine spare parts during appliance repairs?",
+            "answer": "Yes. Whether it’s washing machine repair UAE, dishwasher service, or fridge repair UAE, we only use original, high-quality spare parts to ensure long-lasting results."
+          },
+           {
+            "question": "How do I book an appliance repair service in UAE?",
+            "answer": "Booking is easy—simply call, WhatsApp, or fill out our online form. We offer quick scheduling for home appliance repair, electrical troubleshooting, and all kitchen and laundry appliance repair services."
+          },
+           {
+            "question": "Do you offer a warranty on your appliance repair services?",
+            "answer": "Yes, we provide service warranty on all major repairs, including washing machine repair UAE, dishwasher repairs, and refrigerator servicing."
+          }
+        ]
+      }
+    },
+
+    "kitchenEquipmentInstallation": {
+      "hero": {
+        "badge": "Certified Installations",
+        "title": "Kitchen Appliance Repair Service UAE",
+        "subtitle": "Rabwat Al Khair offers expert kitchen appliance repair service, oven repair, electric stove repair, and appliance installation across the UAE.",
+        "ctaLabel": "Contact Us",
+        "backgroundImage": "/kitchen-hero.jpg"
+      },
+      "highlights": [
+        {
+          "label": "Our Tools",
+          "title": "Advanced tools for accurate diagnostics and efficient appliance repair."
+        },
+        {
+          "label": "Our Goal",
+          "title": "Delivering top-quality kitchen repair services with complete customer satisfaction."
+        },
+        {
+          "label": "Our Technicians",
+          "title": "Trained and experienced professionals specializing in all kitchen appliances.."
+        }
+      ],
+      "about": {
+        "eyebrow": "About This Service",
+        "heading": "24/7 Same-Day Kitchen Appliance Repair & Installation",
+        "image": "/kitchen-about.jpg",
+        "imageAlt": "Kitchen equipment installation",
+        "paragraphs": [
+          "Rabwat Al Khair delivers reliable, affordable, and expert kitchen appliance repair service across  UAE.",
+          " From oven repair in UAE to electric stove repair UAE, dryer servicing, and full kitchen appliances installation service, we ensure your kitchen runs smoothly with minimal downtime."
+        ],
+        "stat": {
+          "value": "10+",
+          "label": "Years of Experience"
+        }
+      },
+      "quality": {
+        "backgroundImage": "/quality-bg.jpg",
+        "sideImage": "/quality-side1.jpg",
+        "sideImageAlt": "Technicians working with precision tools",
+        "title": "Discover Our Range of Services",
+        "paragraphs": [
+          "We offer a complete set of kitchen equipment repair and installation services tailored to homes, restaurants, cafés, hotels, and commercial kitchens."
+          
+        ],
+        "services": [
+        {
+          "title": "Oven Repair",
+          "description": "Our technicians specialize in oven repair in UAE, diagnosing issues like uneven heating, thermostat failure, ignition problems, faulty wiring, and complete breakdowns. We repair gas ovens, electric ovens, and built-in kitchen ovens with guaranteed quality."
+        },
+        {
+          "title": "Electric Stove Repair",
+          "description": "We provide fast and dependable electric stove repair UAE services. Whether burners aren’t heating, the stove trips power, or controls malfunction—our experts ensure safe, professional repairs using genuine spare parts."
+        },
+        {
+          "title": "Dryer Repair",
+          "description": "If your dryer isn’t spinning, heating, or is making unusual sounds, our dryer repair experts troubleshoot and fix the issue quickly. We service all major dryer brands and models."
+        },
+        {
+          "title": "Kitchen Appliances Installation ",
+          "description": "We offer expert kitchen appliances installation service, including ovens, stoves, hoods, cooking ranges, dishwashers, microwaves, and more. Our team ensures proper connection, safe setup, and full testing for optimal performance."
+        },
+        {
+          "title": "Freezer & Refrigerator Maintenance",
+          "description": "Our freezer maintenance includes fixing cooling issues, thermostat failures, leaks, defrost problems, and compressor faults. Regular servicing helps prevent costly food spoilage and ensures long-term efficiency."
+        }
+      ]
+  },
+   "faq": {
+        "eyebrow": "Need Clarity?",
+        "heading": "Kitchen Appliance Repair Services FAQs",
+        "intro": "Here are answers to the most common questions customers ask us about AC repair, servicing, and installation in UAE and across the UAE.",
+        "items": [
+          {
+            "question": "What does your kitchen appliance repair service include?",
+            "answer": "Our kitchen appliance repair service covers ovens, electric stoves, dryers, dishwashers, freezers, refrigerators, and all major kitchen equipment. We diagnose issues, replace faulty parts, install new appliances, and provide preventive maintenance."
+          },
+          {
+            "question": "Do you offer same-day oven repair in UAE?",
+            "answer": "Yes, we provide fast same-day oven repair in UAE for gas ovens, electric ovens, and built-in kitchen ovens. Our technicians fix heating issues, faulty thermostats, ignition problems, and electrical faults."
+          },
+          {
+            "question": "How do I know if I need electric stove repair UAE?",
+            "answer": "If your stove isn’t heating, trips the power, sparks, or has unresponsive controls, you need electric stove repair UAE. We handle burner issues, wiring faults, and complete stove servicing."
+          },
+          {
+            "question": "Do you offer kitchen appliance installation service for new equipment?",
+            "answer": "Absolutely. We provide professional kitchen appliances installation service for ovens, cooking ranges, stoves, dishwashers, hoods, microwaves, and more—ensuring safe connections and proper setup."
+          },
+          {
+            "question": "How long does oven or stove repair take?",
+            "answer": "Most oven repair in UAE and electric stove repair UAE jobs take 30–90 minutes depending on the issue. Complex electrical repairs may take slightly longer."
+          },
+          {
+            "question": "Do you repair all kitchen appliance brands?",
+            "answer": "Yes, our kitchen appliance repair service covers all brands including Samsung, LG, Bosch, Siemens, Whirlpool, Midea, Electrolux, Ariston, and more."
+          },
+           {
+            "question": "When should I schedule freezer maintenance?",
+            "answer": "You should schedule freezer maintenance if your freezer makes noise, fails to cool, leaks water, or develops frost buildup. Regular servicing prevents major breakdowns and food spoilage."
+          },
+           {
+            "question": "Do you provide a warranty for kitchen appliance repairs?",
+            "answer": "Yes, all repairs—including oven repair in UAE, stove repair, and freezer servicing—come with service warranty for your peace of mind."
+          }
+        ]
+      }
+    },
+
+    
+ 
+  "acRepairServices": {
+    "hero": {
+      "badge": "24/7 Emergency Support",
+      "title": "AC Repair & Maintenance UAE",
+      "subtitle": "Rabwat Al Khair offers expert AC installation services in UAE, fast AC repair, and dependable AC maintenance across the UAE to ensure comfort. Call now!",
+      "ctaLabel": "Contact Us",
+      "backgroundImage": "/ac-hero.jpg"
+    },
+    "highlights": [
+      {
+        "label": "Our Tools",
+        "title": "Advanced equipment for fast, safe, and efficient AC installation and maintenance."
+      },
+      {
+        "label": "Our Goal",
+        "title": "Delivering high-quality AC services with complete customer satisfaction."
+      },
+      {
+        "label": "Our Technicians",
+        "title": "Skilled AC professionals with years of experience in installation, repair, and maintenance."
+      }
+    ],
+    "about": {
+      "eyebrow": "About This Service",
+      "heading": "Reliable AC Repair & Maintenance",
+      "image": "/ac-about.jpg",
+      "imageAlt": "AC repair technician",
+      "paragraphs": [
+        "Rabwat Al Khair delivers high-quality AC installation services in UAE, offering professional air conditioning setup, system upgrades, repair, and full AC maintenance for homes, offices, and commercial spaces.",
+        "Our certified technicians ensure your air conditioner operates efficiently, safely, and with maximum cooling performance—even during the peak summer months."
+      ],
+      "stat": {
+        "value": "10+",
+        "label": "Years of Experience"
+      }
+    },
+    "quality": {
+      "backgroundImage": "/quality-bg.jpg",
+      "sideImage": "/quality-side2.jpg",
+      "sideImageAlt": "Technicians working with precision tools",
+      "title": "Discover Our Range of Services",
+      "paragraphs": [
+        "Our pride lies in our superior workmanship and unmatched commitment to customer satisfaction. Every project is handled by experienced technicians who follow the highest standards and use the most reliable tools and techniques.",
+        "By focusing on clear communication, transparent processes, and meticulous attention to detail, we make sure every client receives service that goes beyond expectations."
+      ],
+      "services": [
+        {
+          "title": "AC Installation Services",
+          "description": "Our AC installation services in UAE cover installing split AC, window AC, ducted units, VRF/VRV systems, and central cooling. We ensure proper mounting, wiring, gas pressure calibration, thermostat setup, and full system testing so your air conditioner delivers peak cooling efficiency."
+        },
+        {
+          "title": "AC Repair Services",
+          "description": "We offer fast, reliable AC repair in UAE for all cooling issues including weak airflow, water leakage, no cooling, unusual noises, bad smell, electrical faults, and sudden breakdowns. Our technicians diagnose faults quickly and repair them using genuine parts for lasting performance."
+        },
+        {
+          "title": "AC Maintenance Services",
+          "description": "Our AC maintenance in UAE includes deep cleaning, coil washing, filter replacement, drain line flushing, gas top-up, duct inspection, and system performance checks. Regular servicing helps reduce electricity usage and prevents major AC failures during summer."
+        },
+        {
+          "title": "AC Gas Refilling",
+          "description": "If your AC is not cooling properly, our team checks refrigerant levels and provides accurate gas refilling using high-quality R22, R410A, or R32 refrigerants. This restores cooling efficiency and protects your compressor from damage."
+        },
+        {
+          "title": "AC Coil Cleaning & Deep Wash",
+          "description": "We perform professional indoor and outdoor AC coil cleaning to remove dust buildup and improve cooling output. Our deep wash service removes dirt, bacteria, and mold, increasing airflow and extending your AC’s lifespan."
+        },
+        {
+          "title": "Thermostat & Sensor Repair",
+          "description": "Faulty sensors can cause temperature imbalance or system shutdowns. We repair and replace all types of thermostats, ensuring your AC maintains accurate and consistent cooling throughout your home or office."
+        },
+        {
+          "title": "Commercial AC Services",
+          "description": "We provide large-scale air conditioner installation and maintenance for restaurants, stores, hotels, offices, warehouses, and commercial buildings. Our team handles chilled water systems, ducted units, and rooftop AC systems with minimal disruption to your operations."
+        }
+      ]
+     },
+      "faq": {
+        "eyebrow": "Need Clarity?",
+        "heading": "AC Repair & Maintenance FAQs",
+        "intro": "Here are answers to the most common questions customers ask us about AC repair, servicing, and installation in  UAE.",
+        "items": [
+          {
+            "question": "What is included in your AC installation services in UAE?",
+            "answer": "Our AC installation services in UAE cover mounting, wiring, gas pressure checks, thermostat setup, airflow balancing, and complete testing to ensure perfect cooling performance."
+          },
+          {
+            "question": "How do I know if I need AC repair in UAE or a full replacement?",
+            "answer": "If your unit has weak cooling, unusual noises, or frequent shutdowns, you likely need ac repair in UAE. Our technicians diagnose the system and advise whether repair or replacement is the best option."
+          },
+          {
+            "question": "How often should I schedule AC maintenance in UAE?",
+            "answer": "Due to UAE’s hot climate, AC maintenance in UAE should be done every 3–4 months. Regular servicing keeps your AC energy-efficient, prevents breakdowns, and improves cooling."
+          },
+          {
+            "question": "Do you provide emergency AC repair in UAE?",
+            "answer": "Yes, we offer 24/7 emergency AC repair in UAE for sudden cooling failures, water leaks, gas issues, and electrical faults. Our team arrives the same day."
+          },
+          {
+            "question": "What types of air conditioner installation do you offer?",
+            "answer": "We provide complete air conditioner installation for split AC, window AC, ducted AC, central AC, VRF/VRV systems, and portable AC units."
+          },
+          {
+            "question": " How long does AC installation take?",
+            "answer": "Most AC installation services in UAE take 1 to 3 hours, depending on AC type, location, and installation complexity."
+          },
+           {
+            "question": "Do you offer AC gas refilling along with AC repair in UAE?",
+            "answer": "Yes, during AC repair in UAE, we inspect refrigerant levels and offer gas refilling to restore cooling performance if needed."
+          },
+          {
+            "question": "What are the benefits of regular AC maintenance in UAE?",
+            "answer": "Scheduling routine AC maintenance in UAE improves cooling efficiency, reduces electricity bills, extends AC lifespan, and prevents costly repairs."
+          }
+        ]
+      }
+  }
+
+
+
+
+  },
+
+  "contact": {
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "Let’s get in touch",
+    "heroWhatsappButton": "WhatsApp",
+    "heroCallButton": "Call Us",
+
+    "heading": "Get in touch.",
+    "description": "Reach out to Rabwat Al Khair for fast and reliable technical and maintenance services across  the UAE. Whether you need appliance repair, AC servicing, installation, or scheduled maintenance, our team is ready to support you with trusted, professional service.",
+
+    "phone": "+971 56 601 4047",
+    "whatsapp": "+971 56 601 4047",
+
+    "email": "rbwtalkhyr@gmail.com",
+    "address": "Al Maqta Abu Dhabi,UAE",
+
+    "nameLabel": "First Name",
+    "emailLabel": "Email Address",
+    "phoneLabel": "Phone Number",
+    "messageLabel": "Message",
+    "button": "Submit",
+
+    "mapHeading": "Find us on the map",
+
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "contactTitle": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+ "privacy": {
+  "title": "Privacy Policy",
+  "lastUpdatedLabel": "Last updated:",
+  "lastUpdatedDate": "December 8, 2025",
+
+  "intro": "Welcome to Rabwat Al Khair. We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and safeguard your information when you visit our website or use our technical, repair, and maintenance services in the UAE. By accessing our website or using our services, you agree to the terms outlined in this Privacy Policy.",
+
+  "section1Title": "1. Who we are",
+  "section1Body": "Rabwat Al Khair is a UAE-based provider of technical, repair, and maintenance services, including home appliance repair, AC maintenance, and related services across the United Arab Emirates. This Privacy Policy applies to all customers, website visitors, and individuals who contact us or use our services through our website, phone, WhatsApp, email, or any other communication channel.",
+
+  "section2Title": "2. Information we collect",
+  "section2Body": "We may collect different types of information to provide and improve our services. (a) Personal information: such as your full name, phone number, email address, address or location details, and service requirements or booking information when you contact us, request a service, or submit a form. (b) Technical information: such as your IP address, browser type, device type (desktop, mobile, tablet), pages visited, time spent on the website, and cookies or tracking data that help us understand how you use our website. (c) Communication data: including records of phone calls, WhatsApp messages, emails, and web form submissions that we may store to improve our service quality, customer support, and internal training.",
+
+  "section3Title": "3. How we use your information",
+  "section3Body": "We use the information we collect for the following purposes: (a) to provide, manage, and deliver technical, repair, and maintenance services; (b) to respond to service requests, inquiries, and support needs; (c) to schedule bookings, confirm appointments, and coordinate technician visits; (d) to improve website performance, user experience, and the quality of our services; (e) to carry out analytics and understand how visitors interact with our website, including through cookies and similar technologies; (f) to send marketing promotions, offers, and updates when you have given your consent; and (g) to comply with applicable UAE laws, regulations, and legal requirements.",
+
+  "section4Title": "4. Sharing and disclosure of information",
+  "section4Body": "We do not sell or trade your personal information to third parties. We may share your information only when necessary with: (a) verified technicians or service staff who need the information to perform maintenance, repairs, or installations at your location; (b) payment processing providers, if applicable, to complete and verify service payments; (c) third-party platforms such as WhatsApp, Google Maps, or social media when you choose to interact with us through those channels; and (d) government authorities, regulators, or other official bodies if we are legally required to disclose information. All third parties who receive your information are expected to follow strict confidentiality and data protection practices.",
+
+  "section5Title": "5. Data storage, security, and retention",
+  "section5Body": "We take your data security seriously and implement reasonable technical and organizational measures to protect your information from unauthorized access, loss, misuse, or disclosure. These measures may include encrypted forms, secure hosting servers, and restricted access protocols. We retain your personal information only for as long as necessary to fulfill the purposes described in this Privacy Policy, provide our services, meet legal or regulatory obligations, or resolve disputes. Once data is no longer needed, it is deleted or anonymized in a secure manner where appropriate.",
+
+  "section6Title": "6. Your rights and contacting us",
+  "section6Body": "Subject to applicable laws, you may have the right to: (a) request a copy of the personal information we hold about you; (b) request that we update or correct inaccurate or incomplete information; (c) request the deletion of your personal data, unless we are legally required to retain it; and (d) opt out of marketing communications at any time. To exercise your rights or make a privacy-related request, you can contact us using the contact details provided on our Contact page or through the phone, WhatsApp, or email channels listed on our website.",
+
+  "disclaimer": "This Privacy Policy is provided for general informational purposes only and does not constitute legal advice. If you require legal advice regarding data protection or privacy, you should consult a qualified legal professional."
+}
+,
+
+ 
+  "footer": {
+    "brand": "Rabwat Al Khair",
+    "tagline": "Technical & maintenance services in UAE.",
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "contactTitle": "Contact",
+    "address": "Al Maqta Abu Dhabi,UAE",
+    "phone": " +971 56 601 4047",
+    "email": "rbwtalkhyr@gmail.com",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  
+}
+
+}
